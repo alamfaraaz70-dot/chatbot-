@@ -1,0 +1,8 @@
+{
+  "name": "Gemini Voice & Text Chatbot",
+  "description": "A high-fidelity AI companion supporting real-time voice conversations and text-based chat, powered by the Gemini 2.5 and 3 series models.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
